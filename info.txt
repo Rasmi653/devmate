@@ -1,0 +1,5 @@
+Project Name: Devmate
+Platform: Nextjs
+Architected By: Rasmiranjan Pradhan
+Developed By: Rasmiranjan Pradhan
+Contributer: Biswajit Gahan
